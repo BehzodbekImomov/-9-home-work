@@ -304,3 +304,116 @@ opacity: 0.7;
     height: 160px;
     padding-top: 80px;
 }
+.box-button{
+    display: flex;
+}
+.box-button button{
+    width: 134px;
+    height: 74px;
+    color: white;
+    background-color: #D23166;
+    border-radius: 5px;
+}
+.box-button input{
+    width: 503px;
+    height: 74px;
+    border: 1px solid #D23166;  
+    border-radius: 5px;
+}
+.box-input{
+    display: flex;
+ gap: 30px;
+ padding: 50px 0;
+}
+.input1 input{
+    width: 303px;
+    height: 74px;
+    border: 1px solid #D23166;  
+    border-radius: 5px;
+}
+.container7{
+    margin: 200px 400px;
+  
+}
+
+select{
+    width: 303px;
+    height: 74px;
+    border: 1px solid #D23166;
+    border-radius: 5px;  
+}
+.container9{
+    display: flex;
+    background-color: black;
+    color: white;
+    height: 381px;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box-nav{
+    width: 206px;
+}
+.box-input-button-footer{
+    display: flex;
+}
+.box-logo-footer{
+    display: flex;
+    gap: 10px;
+}
+.box-input-button-footer form input{
+    width: 263px;
+    height: 55px;
+    border: 1px solid #D23166;
+    border-radius: 5px;
+    background-color: #150101;
+}
+
+.box-input-button-footer button{
+    width: 125px;
+    height: 55px;
+    background-color: #D23166;
+    border: 2px solid #D23166;
+    border-radius: 5px;
+}
+.box-nav p{
+    font-size: 15px;
+    opacity: 0.5;
+    padding-top: 10px;
+
+}
+.box-nav h5{
+    padding-top: 15px;
+}
+.box-img-insta{
+    padding-top: 15px;
+    display: flex;
+    gap: 15px;
+}
+.box-nav-title nav ul li{
+    font-size:15px;
+    color: white;
+    opacity: 0.5;
+    padding-top: 10px;
+}
+.box-nav-title nav ul li a{
+    color: white;
+}.box-nav-title2 ul li{
+    font-size:15px;
+    color: white;
+    opacity: 0.5;
+    padding-top: 10px;
+}
+.box-nav-title2 ul li a{
+    color: white;
+}
+.box-footer-button h4{
+    padding-bottom: 25px;
+    /* font-size: 20px; */
+}
+.box-footer-button button{
+    color: white;
+    font-size: 20px;
+}
+.box-logo-footer{
+    padding-top: 15px;
+}
