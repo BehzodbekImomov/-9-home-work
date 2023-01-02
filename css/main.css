@@ -1,0 +1,217 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: dashed;
+    font-family: 'Roboto';
+}
+body{
+    width: 1400px;
+    margin: 0 auto;
+
+}
+.container{
+ 
+}
+.boxs-navigations{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+    background-color:#F8EDF0;
+    /* width: 1600px; */
+
+}
+.box-title-navigation ul{
+    display: flex;
+  gap: 30px;
+  padding-top: 20px;
+
+}
+.box-title-navigation ul li a{
+    color: black;
+    font-weight: 200;
+    font-size: 15px;
+    opacity: 0.7;
+}
+.box-title-navigation ul li a:hover{
+   
+    background-color: azure;
+    color: #D23166;
+    transition: ease-in-out .3s;
+}
+.box-button-navigation form button{
+    width: 165px;
+    height: 49px;
+    border-radius: 10px;
+    background-color:#D23166;
+    border-color: #D23166;
+    color: white;
+}
+.container1{
+    /* width: 1600px; */
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    background-color: #F8EDF0;
+}
+.box-section-img{
+    background-color:#F8EDF0;
+    padding-right: 25px;
+   
+
+}
+.box-section-title{
+    padding-top: 120px;
+    position: relative;
+    left: 150px;
+
+}
+.box-section-title h2{
+    padding-top: 30px;
+    font-size: 47px;
+    font-family: 'Fredoka One';
+    font-weight: 900;
+    opacity: 0.8;
+  
+}
+.box-section-title h2 span{
+    color: #D23166;
+}
+.box-section-title button{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border-color: #D23166;
+    border-radius: 10px;
+    color: white;
+    margin-top: 70px;
+}
+.food{
+    padding-top: 40px;
+}
+.container2 ul{
+    height: 300px;
+    gap: 150px;
+    display: flex;
+    /* justify-content: space-around; */
+    align-items: center;
+}
+.container2 ul li p{
+    padding-top: 10px;
+    font-family: 'Hind Madurai';
+    opacity: 0.7;
+ 
+}
+.fast-img{
+    margin-bottom: 30px;
+}
+.box-container3{
+    display: flex;
+    background-color: #F8EDF0;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px 150px;
+}
+.box-container3-title h2{
+    font-size: 45px;
+}
+.box-container3-title p{
+    padding-top: 20px;
+    color: #150101;
+    opacity: 0.7;
+}
+.box-container3-title button{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border-color: #D23166;
+    border-radius: 10px;
+    color: white;
+    margin-top: 70px;
+}
+.box-container4-title ul{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding-top: 64px;
+}
+.box-container4-title h2{
+    font-size: 45px;
+    font-weight: 600;
+    text-align: center;
+    padding-top: 132px;
+}
+.box-container4-title ul li a{
+    color:black;
+    font-size: 18px;
+    opacity: 0.8;
+    
+}
+.box-container4-title ul li a:hover{
+    color: black;
+    text-decoration: underline solid 2px red;
+    font-weight: 800;
+    transition: ease-in-out 0.5s;
+}
+.box-container5{
+    display: flex;
+    gap: 70px;
+    padding: 30px 100px;
+}
+.box-container5-title{
+    padding: 80px 200px 0 0;
+}
+.ice-cream-title1{
+    padding-top: 20px;
+    opacity: 0.7;
+}
+.ice-cream-title2{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.ice-cream-title2 span{
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 15px;
+    text-decoration: line-through;
+}
+.box-container5-title button{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border-color: #D23166;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+}
+.ice-cream-title12{
+    padding-top: 20px;
+    opacity: 0.7;
+    text-align: end;
+}
+.ice-cream-title22 span{
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 15px;
+    text-decoration: line-through;
+}
+.ice-cream-title22{
+    padding-top: 20px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.box-container5-title1{
+    text-align: end;
+    padding: 80px 100px 0 0;
+}
+.box-container5-title1 button{
+    width: 165px;
+    height: 49px;
+    background-color: #D23166;
+    border-color: #D23166;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px; 
+}
