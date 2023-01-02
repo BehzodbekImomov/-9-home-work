@@ -215,3 +215,10 @@ body{
     color: white;
     margin-top: 20px; 
 }
+.img-title-box{
+    display: flex;
+    gap 10px
+}
+.box-cont5{
+    display: flex ;
+}
